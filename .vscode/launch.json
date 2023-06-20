@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/nejhumkhan/Downloads/git/git_1st",
+      "program": "/Users/nejhumkhan/Downloads/git/git_1st/build/Debug/outDebug"
+    }
+  ]
+}
